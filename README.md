@@ -30,7 +30,7 @@ This project explores historical data storytelling through modern visualization 
 
 [Nightingale Project Overview](https://yiyangges.github.io/nightingale-rose/)
 
-#### 🖼 Week 10 – Image Cards Gallery
+#### 🖼 Image Cards Gallery
 
 An interactive image gallery built with HTML, CSS, and React featuring like/dislike counters, comment inputs, and dynamic DOM updates.
 
