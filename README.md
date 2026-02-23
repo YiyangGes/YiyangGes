@@ -17,14 +17,10 @@ Here are some ideas to get you started:
 I'm a college student studying Data Science, with a strong interest in data visualization, statistical analysis, and building clean, interpretable models. I enjoy turning raw datasets into meaningful insights and presenting them through thoughtful visual design. Currently, I'm building projects that combine technical rigor with clear storytelling.
 
 🛠 Skills
-
-Python
-
-matplotlib
-
-Data Visualization
-
-Git & GitHub
+- Python
+- matplotlib
+- Data Visualization
+- Git & GitHub
 
 📊 Projects
 🌹 Nightingale Rose Diagram
