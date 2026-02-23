@@ -24,10 +24,11 @@ I'm a college student studying Data Science, with a strong interest in data visu
 
 📊 Projects
 
-🌹 Nightingale Rose Diagram
+🌹 Nightingale Rose Diagram Replication
 Recreated Florence Nightingale’s famous 1854–1856 mortality visualization using Python and matplotlib.
 This project explores historical data storytelling through modern visualization techniques.
-[Project Overview](https://yiyangges.github.io/nightingale-rose/)
+
+[Nightingale Project Overview](https://yiyangges.github.io/nightingale-rose/)
 
 📚 Currently Learning
 - Statistical modeling and inference
