@@ -29,6 +29,7 @@ Recreated Florence Nightingale’s famous 1854–1856 mortality visualization us
 This project explores historical data storytelling through modern visualization techniques.
 
 [Nightingale Project Overview](https://yiyangges.github.io/nightingale-rose/)
+
 [Nightingale Project by Digitize App Overview](https://yiyangges.github.io/nightingale-rose-digitizer/)
 
 #### 🖼 Image Cards Gallery
